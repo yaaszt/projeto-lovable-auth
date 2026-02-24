@@ -22,16 +22,16 @@ Desenvolver uma aplicação web contendo:
 
 ## Execução Local
 
-1. Clone o repositório:
+1. Clone o repositório:  
    git clone https://github.com/yaaszt/projeto-lovable-auth.git
 
-2. Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:  
    cd projeto-lovable-auth
 
-3. Instale as dependências:
+3. Instale as dependências:  
    npm install
 
-4. Execute o servidor de desenvolvimento:
+4. Execute o servidor de desenvolvimento:  
    npm run dev
 
 ## Observação
